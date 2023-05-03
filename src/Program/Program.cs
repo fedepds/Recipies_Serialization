@@ -10,11 +10,13 @@ using System.Linq;
 
 namespace Recipies
 {
-    public class Program
+    public class Program 
     {
         private static ArrayList productCatalog = new ArrayList();
 
         private static ArrayList equipmentCatalog = new ArrayList();
+
+
 
         public static void Main(string[] args)
         {
